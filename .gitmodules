@@ -1,0 +1,3 @@
+[submodule "epita-google-cloud-ytb-app"]
+	path = epita-google-cloud-ytb-app
+	url = https://github.com/hadjigagny93/epita-google-cloud-ytb-app.git
