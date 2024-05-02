@@ -5,7 +5,7 @@ on:
       - main
 
 env:
-  PROJECT_ID: vocal-eon-416516
+  PROJECT_ID: manifest-grin-421811
   GAR_LOCATION: europe-west9
   REPOSITORY: epita-examplye-register
   SERVICE: youtube-api-job
